@@ -4,7 +4,7 @@ description: Vendors who natively support OpenTelemetry
 aliases: [/vendors]
 # Note: the keywords after 'cSpell:ignore' must be on the same line, no wrapping, hence the Prettier ignore directive
 # prettier-ignore
-spelling: cSpell:ignore appdynamics aria aspecto bution coralogix daocloud datadoghq distri dynatrace gethelios grafana humio Instana kloudfuse lightstep logz logicmonitor lumigo observiq promscale sentrysoftware signoz solarwinds splunk sumologic uptrace vmware wavefront
+spelling: cSpell:ignore appdynamics aria aspecto bution coralogix daocloud datadoghq distri dynatrace gethelios grafana humio Instana kloudfuse lightstep logz logicmonitor lumigo observiq promscale sentrysoftware signoz solarwinds splunk sumologic thousandeyes uptrace vmware wavefront
 ---
 
 [Distributions](/docs/concepts/distributions/) and vendors who natively support
@@ -48,6 +48,7 @@ OpenTelemetry in their commercial products.
 | Sumo Logic                 | Yes               | Yes         | [help.sumologic.com/](https://help.sumologic.com/docs/apm/traces/quickstart/)
 | TelemetryHub               | No                | Yes         | [telemetryhub.com](https://app.telemetryhub.com/docs)
 | Teletrace                  | Yes               | Yes         | [docs.teletrace.io](https://docs.teletrace.io/)
+| ThousandEyes (Cisco)       | No                | Yes         | [docs.thousandeyes.com/product-documentation/api/opentelemetry] (https://docs.thousandeyes.com/product-documentation/api/opentelemetry)
 | Traceloop                  | No                | Yes         | [traceloop.com](https://www.traceloop.com)
 | Uptrace                    | Yes               | Yes         | [uptrace.dev](https://uptrace.dev)
 
